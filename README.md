@@ -54,7 +54,7 @@ $ ColabCode()
 $ ColabCode(port=10000, password="abhishek", mount_drive=True)
 ```
 ## How to use it?
-Colab starter notebook: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abhishekkrthakur/colabcode/blob/master/colab_starter.ipynb)
+Colab starter notebook: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sciencepal/colabcode/blob/master/colab_starter.ipynb)
 
 `ColabCode` comes pre-installed with some VS Code extensions.
 
